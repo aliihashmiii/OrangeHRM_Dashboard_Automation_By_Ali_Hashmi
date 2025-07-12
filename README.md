@@ -59,10 +59,10 @@ OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 
 ---
 
-##  Screenshot Example
 
->  Screenshot auto-saves to `Screenshots/invalid_login.png` when the test fails.
-> Useful for reporting and debugging!
+
+
+
 
 ---
 
