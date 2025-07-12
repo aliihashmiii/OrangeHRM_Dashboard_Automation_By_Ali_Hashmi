@@ -1,23 +1,23 @@
-# 🧪 OrangeHRM Dashboard Automation Project (POM-Based)
+#  OrangeHRM Dashboard Automation Project (POM-Based)
 
 This is a Selenium-based automation testing suite that uses the **Page Object Model (POM)** design pattern.  
 It includes:
 
-- ✅ **Valid login test** — Verifies successful login and dashboard visibility  
-- ❌ **Invalid login test** — Ensures proper failure message for wrong credentials
+-  **Valid login test** — Verifies successful login and dashboard visibility  
+-  **Invalid login test** — Ensures proper failure message for wrong credentials
 
-🌐 Target Website: [OrangeHRM Demo Site](https://opensource-demo.orangehrmlive.com)
+ Target Website: [OrangeHRM Demo Site](https://opensource-demo.orangehrmlive.com)
 
 ---
 
-## 👨‍💻 Project Author
+##  Project Author
 
 **Ali Hashmi**  
-Aspiring SQA Engineer from Pakistan, working hard to score a **job in Austria** 🇦🇹 with a self-built 6–8 month roadmap of real-world automation projects.
+Business student delving into devops by replacing 4 years of university knowledge with self learning
 
 ---
 
-## 📁 Project Folder Structure
+##  Project Folder Structure
 
 OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 │
@@ -27,8 +27,8 @@ OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 │
 ├── tests/ # Test scripts
 │ ├── init.py
-│ ├── test_dashboard.py # ✅ Valid login + dashboard visible test
-│ └── test_invalid_login.py # ❌ Invalid login + screenshot capture
+│ ├── test_dashboard.py #  Valid login + dashboard visible test
+│ └── test_invalid_login.py #  Invalid login + screenshot capture
 │
 ├── Screenshots/ # Contains screenshot of invalid login result
 │ └── invalid_login.png # (Auto-saved after running invalid login test)
@@ -37,7 +37,7 @@ OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -50,7 +50,7 @@ OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 
 ---
 
-## ✅ Tests Implemented
+## Tests Implemented
 
 | Test Name | Description |
 |-----------|-------------|
@@ -59,14 +59,14 @@ OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 
 ---
 
-## 📸 Screenshot Example
+##  Screenshot Example
 
-> 📍 Screenshot auto-saves to `Screenshots/invalid_login.png` when the test fails.
+>  Screenshot auto-saves to `Screenshots/invalid_login.png` when the test fails.
 > Useful for reporting and debugging!
 
 ---
 
-## ▶️ How to Run the Tests
+##  How to Run the Tests
 
 ### 1. Clone or Download the Repo
 
