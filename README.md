@@ -21,19 +21,19 @@ Business student delving into devops by replacing 4 years of university knowledg
 
 OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 │
-├── pages/ # Page Object Model (POM) files
-│ ├── login_page.py # LoginPage class with actions
-│ └── dashboard_page.py # DashboardPage class with dashboard check
+├── pages/ Page Object Model (POM) files
+│ ├── login_page.py  LoginPage class with actions
+│ └── dashboard_page.py  DashboardPage class with dashboard check
 │
-├── tests/ # Test scripts
+├── tests/  Test scripts
 │ ├── init.py
-│ ├── test_dashboard.py #  Valid login + dashboard visible test
-│ └── test_invalid_login.py #  Invalid login + screenshot capture
+│ ├── test_dashboard.py   Valid login + dashboard visible test
+│ └── test_invalid_login.py   Invalid login + screenshot capture
 │
-├── Screenshots/ # Contains screenshot of invalid login result
-│ └── invalid_login.png # (Auto-saved after running invalid login test)
+├── Screenshots/  Contains screenshot of invalid login result
+│ └── invalid_login.png  (Auto-saved after running invalid login test)
 │
-└── README.md # You are here 
+└── README.md  You are here 
 
 ---
 
@@ -66,9 +66,9 @@ OrangeHRM_Dashboard_Automation_By_Ali_Hashmi/
 
 ---
 
-##  How to Run the Tests
 
-### 1. Clone or Download the Repo
+
+
 
 ```bash
 git clone https://github.com/aliihashmiii/OrangeHRM_Dashboard_Automation_By_Ali_Hashmi.git
